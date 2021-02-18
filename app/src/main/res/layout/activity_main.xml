@@ -23,6 +23,7 @@
                 android:layout_width="0px"
                 android:layout_height="wrap_content"
                 android:layout_weight="0.25"
+                android:adjustViewBounds="true"
                 android:scaleType="centerInside"
                 app:srcCompat="@drawable/hole" />
 
@@ -31,6 +32,7 @@
                 android:layout_width="0px"
                 android:layout_height="wrap_content"
                 android:layout_weight="0.25"
+                android:adjustViewBounds="true"
                 android:scaleType="centerInside"
                 app:srcCompat="@drawable/hole" />
 
@@ -39,6 +41,7 @@
                 android:layout_width="0px"
                 android:layout_height="wrap_content"
                 android:layout_weight="0.25"
+                android:adjustViewBounds="true"
                 android:scaleType="centerInside"
                 app:srcCompat="@drawable/hole" />
 
@@ -47,6 +50,7 @@
                 android:layout_width="0px"
                 android:layout_height="wrap_content"
                 android:layout_weight="0.25"
+                android:adjustViewBounds="true"
                 android:scaleType="centerInside"
                 app:srcCompat="@drawable/hole" />
 
@@ -61,6 +65,7 @@
                 android:layout_width="0px"
                 android:layout_height="wrap_content"
                 android:layout_weight="0.25"
+                android:adjustViewBounds="true"
                 android:scaleType="centerInside"
                 app:srcCompat="@drawable/hole" />
 
@@ -69,6 +74,7 @@
                 android:layout_width="0px"
                 android:layout_height="wrap_content"
                 android:layout_weight="0.25"
+                android:adjustViewBounds="true"
                 android:scaleType="centerInside"
                 app:srcCompat="@drawable/hole" />
 
@@ -77,6 +83,7 @@
                 android:layout_width="0px"
                 android:layout_height="wrap_content"
                 android:layout_weight="0.25"
+                android:adjustViewBounds="true"
                 android:scaleType="centerInside"
                 app:srcCompat="@drawable/hole" />
 
@@ -85,6 +92,7 @@
                 android:layout_width="0px"
                 android:layout_height="wrap_content"
                 android:layout_weight="0.25"
+                android:adjustViewBounds="true"
                 android:scaleType="centerInside"
                 app:srcCompat="@drawable/hole" />
         </TableRow>
@@ -98,6 +106,7 @@
                 android:layout_width="0px"
                 android:layout_height="wrap_content"
                 android:layout_weight="0.25"
+                android:adjustViewBounds="true"
                 android:scaleType="centerInside"
                 app:srcCompat="@drawable/hole" />
 
@@ -106,6 +115,7 @@
                 android:layout_width="0px"
                 android:layout_height="wrap_content"
                 android:layout_weight="0.25"
+                android:adjustViewBounds="true"
                 android:scaleType="centerInside"
                 app:srcCompat="@drawable/hole" />
 
@@ -114,6 +124,7 @@
                 android:layout_width="0px"
                 android:layout_height="wrap_content"
                 android:layout_weight="0.25"
+                android:adjustViewBounds="true"
                 android:scaleType="centerInside"
                 app:srcCompat="@drawable/hole" />
 
@@ -122,6 +133,7 @@
                 android:layout_width="0px"
                 android:layout_height="wrap_content"
                 android:layout_weight="0.25"
+                android:adjustViewBounds="true"
                 android:scaleType="centerInside"
                 app:srcCompat="@drawable/hole" />
         </TableRow>
@@ -135,6 +147,7 @@
                 android:layout_width="0px"
                 android:layout_height="wrap_content"
                 android:layout_weight="0.25"
+                android:adjustViewBounds="true"
                 android:scaleType="centerInside"
                 app:srcCompat="@drawable/hole" />
 
@@ -143,6 +156,7 @@
                 android:layout_width="0px"
                 android:layout_height="wrap_content"
                 android:layout_weight="0.25"
+                android:adjustViewBounds="true"
                 android:scaleType="centerInside"
                 app:srcCompat="@drawable/hole" />
 
@@ -151,6 +165,7 @@
                 android:layout_width="0px"
                 android:layout_height="wrap_content"
                 android:layout_weight="0.25"
+                android:adjustViewBounds="true"
                 android:scaleType="centerInside"
                 app:srcCompat="@drawable/hole" />
 
@@ -159,6 +174,7 @@
                 android:layout_width="0px"
                 android:layout_height="wrap_content"
                 android:layout_weight="0.25"
+                android:adjustViewBounds="true"
                 android:scaleType="centerInside"
                 app:srcCompat="@drawable/hole" />
         </TableRow>

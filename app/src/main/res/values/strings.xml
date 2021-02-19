@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">GridExample</string>
+    <string name="play">Start Game</string>
+    <string name="box">play box</string>
 </resources>
